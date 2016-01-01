@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<!-- Added Angular stuff -->
+
+<head>
+    <title>Articles</title>
+    <script type="text/javascript" src="script_v4_1.js"></script>
+</head>
+
+<body>
+    <div id="container">
+        <div class="article_creator">
+            <form id="article_create">
+                <div class="article_title_box">Article title:
+                    <br />
+                    <input id="artTitle" type="text" name="article_title" />
+                </div>
+
+                <br /> Text:
+                <br />
+                <textarea id="artText" rows="4" cols="50" name="article_description"></textarea>
+                <br /> Image URL:
+                <br />
+                <input id="artImage" type="text" name="article_image" />
+            </form>
+            <br />
+            <button id="submit_art" onclick="createArticle()">Submit article</button>
+        </div>
+        
+        <p id="output2"></p>
+
+        <div id="articles"></div>
+        <div id="div"></div>
+
+    </div>
+
+
+</body>
+
+</html>

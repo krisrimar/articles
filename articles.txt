@@ -1,0 +1,22 @@
+[
+{
+"id": "1",
+"title": "JavaScript Tutorial 1",
+"text": "Some random text will do"
+},
+{
+"id": "2",
+"title": "JavaScript Tutorial 2",
+"text": "Some random text will do"
+},
+{
+"id": "3",
+"title": "JavaScript Tutorial 3",
+"text": "Some random text will do"
+},
+{
+"id": "4",
+"title": "JavaScript Tutorial 4",
+"text": "Some random text will do"
+}
+]
