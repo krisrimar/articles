@@ -1,0 +1,12 @@
+{"articles": [
+    {"article-1": [{
+        "title": "Article 1",
+        "text": "Some random text for article 1",
+        "image": ""}
+    ]},
+    {"article-2": [{
+        "title": "Article 2",
+        "text": "Some random text for article 2",
+        "image": ""}
+    ]}
+]}
